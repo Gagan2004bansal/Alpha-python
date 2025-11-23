@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+lxml
+feedparser
+wikipedia
+python-dotenv
+google-generativeai
+langgraph
+langchain
+langchain-google-genai
+langchain-core
+yfinance
+pandas
